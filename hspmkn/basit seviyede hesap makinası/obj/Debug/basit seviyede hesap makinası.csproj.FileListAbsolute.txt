@@ -1,0 +1,10 @@
+C:\Users\berke\source\repos\basit seviyede hesap makinası\basit seviyede hesap makinası\bin\Debug\basit seviyede hesap makinası.exe.config
+C:\Users\berke\source\repos\basit seviyede hesap makinası\basit seviyede hesap makinası\bin\Debug\basit seviyede hesap makinası.exe
+C:\Users\berke\source\repos\basit seviyede hesap makinası\basit seviyede hesap makinası\bin\Debug\basit seviyede hesap makinası.pdb
+C:\Users\berke\source\repos\basit seviyede hesap makinası\basit seviyede hesap makinası\obj\Debug\basit seviyede hesap makinası.csproj.AssemblyReference.cache
+C:\Users\berke\source\repos\basit seviyede hesap makinası\basit seviyede hesap makinası\obj\Debug\basit_seviyede_hesap_makinası.Form1.resources
+C:\Users\berke\source\repos\basit seviyede hesap makinası\basit seviyede hesap makinası\obj\Debug\basit_seviyede_hesap_makinası.Properties.Resources.resources
+C:\Users\berke\source\repos\basit seviyede hesap makinası\basit seviyede hesap makinası\obj\Debug\basit seviyede hesap makinası.csproj.GenerateResource.cache
+C:\Users\berke\source\repos\basit seviyede hesap makinası\basit seviyede hesap makinası\obj\Debug\basit seviyede hesap makinası.csproj.CoreCompileInputs.cache
+C:\Users\berke\source\repos\basit seviyede hesap makinası\basit seviyede hesap makinası\obj\Debug\basit seviyede hesap makinası.exe
+C:\Users\berke\source\repos\basit seviyede hesap makinası\basit seviyede hesap makinası\obj\Debug\basit seviyede hesap makinası.pdb
